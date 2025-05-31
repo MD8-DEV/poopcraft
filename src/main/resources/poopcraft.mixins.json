@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "net.gouda.poopcraft.mixin",
+	"package": "net.gouda.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin"

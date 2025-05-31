@@ -16,14 +16,14 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.gouda.poopcraft.PoopCraft"
+			"net.gouda.PoopCraft"
 		],
 		"fabric-datagen": [
-			"net.gouda.poopcraft.PoopCraftDataGenerator"
+			"net.gouda.PoopCraftDataGenerator"
 		]
 	},
 	"mixins": [
-      "poopcraft.mixins.json"
+		"poopcraft.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.14",
